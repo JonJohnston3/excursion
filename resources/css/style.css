@@ -1,0 +1,38 @@
+/* Universal Stlyes */
+html {
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Header */
+h1 {
+    font-size: 50px;
+}
+
+/* Body */
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+/* Footer */
+
+footer p {
+    text-align: right;
+}
